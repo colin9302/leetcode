@@ -1,4 +1,7 @@
-# Functions
+# String
+
+
+# General Functions
 
 ## .reverse
  It reverses the order of the elements in the range [first, last) of any container. The time complexity is O(n). 
