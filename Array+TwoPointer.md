@@ -9,5 +9,7 @@ Array reverse. Start from both beginning and end. Go to middle.
 
 [942. DI String Match](https://leetcode.com/problems/di-string-match/)
 
+[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+
 
 # __Medium Questions__ 
