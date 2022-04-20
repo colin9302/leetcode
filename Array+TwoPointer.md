@@ -11,5 +11,5 @@ Array reverse. Start from both beginning and end. Go to middle.
 
 [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
 
-
+[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 # __Medium Questions__ 
