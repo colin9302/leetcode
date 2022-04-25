@@ -19,6 +19,7 @@ Always avoid creating a duplicate of input array
 
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 
-[1089. Duplicate Zeros] (https://leetcode.com/problems/duplicate-zeros/)
+[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 
+[27. Remove Element](https://leetcode.com/problems/remove-element/submissions/)
 # __Medium Questions__ 
