@@ -1,7 +1,7 @@
 # __Basic Idea__
 Array reverse. Start from both beginning and end. Go to middle.
 
-Always avoid creating a duplicate of input array
+Always avoid creating a duplicate of input array (always start from the end)
 
 # __Easy Questions__ 
 
@@ -22,4 +22,12 @@ Always avoid creating a duplicate of input array
 [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/)
+
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+
 # __Medium Questions__ 
+
+[2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
