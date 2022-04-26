@@ -33,3 +33,5 @@ Always avoid creating a duplicate of input array (always start from the end)
 [2161. Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)
 
 [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
+
+[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/submissions/)
