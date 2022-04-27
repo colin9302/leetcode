@@ -1,3 +1,5 @@
+```diff
+
 # __Basic Idea__
 Array reverse. Start from both beginning and end. Go to middle.
 
@@ -35,3 +37,11 @@ Always avoid creating a duplicate of input array (always start from the end)
 [2149. Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/)
 
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/submissions/)
+
+- [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/)
+
+- [795. Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)
+
+[2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)
+
+[80. Remove Duplicates from Sorted Array II]
