@@ -49,3 +49,8 @@ Always avoid creating a duplicate of input array (always start from the end)
 [809. Expressive Words](https://leetcode.com/problems/expressive-words/)
 
 - - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
+
+- [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+
+[1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
+
