@@ -45,3 +45,7 @@ Always avoid creating a duplicate of input array (always start from the end)
 [2105. Watering Plants II](https://leetcode.com/problems/watering-plants-ii/)
 
 - [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+
+[809. Expressive Words](https://leetcode.com/problems/expressive-words/)
+
+- - [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
