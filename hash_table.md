@@ -7,6 +7,8 @@ unordered_set: only for existence.   .find() .count()
 
 [map vs unorderedmap](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
 
+[set vs sorting, map vs. array](https://leetcode.com/problems/keep-multiplying-found-values-by-two/discuss/1730223/Easy-C%2B%2B-or-Hash-or-3-Lines-or-O(N))
+
 # __Easy Questions__ 
 
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
@@ -38,3 +40,5 @@ unordered_set: only for existence.   .find() .count()
 [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)
 
 [961. N-Repeated Element in Size 2N Array ](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
+
+[2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/)
