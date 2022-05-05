@@ -12,7 +12,10 @@ std::count() returns number of occurrences of an element in a given range.  [O(n
 
 ## swap()
  Swap element of a container. 
- 
+
+## max_element()
+ Return the iterator of the max element.
+
  # Tools
  
  ## auto in for loop
