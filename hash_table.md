@@ -60,3 +60,7 @@ To be figure out: Mulit_unorderedmap/set
 [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/submissions/)
 
 [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
+
+[https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)(sliding window)
+
+
