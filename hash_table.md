@@ -3,7 +3,7 @@ In C++:
 
 unordered_map: used for counting.   .find()
 
-unordered_set: only for existence.   .find() .count()
+unordered_set: only for existence.   .find() .count().  .insert() returns a pair: (first) pointer to the inserted element, and (second) a boolean - false if an element was already in the set, and true otherwise.
 
 [map vs unorderedmap](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)
 
@@ -52,3 +52,11 @@ To be figure out: Mulit_unorderedmap/set
 [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/) (bitwise)
 
 [2053. Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)
+
+[1460. Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)
+
+[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+
+[1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/submissions/)
+
+[2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
