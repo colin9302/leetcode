@@ -36,3 +36,10 @@ a number in char to int:  int('x') - '0'
 # Bitwise
 
 a | b.  1, 2, 4. a|b = a+b if a!=b
+a<<n add n digits, >>n remove n degits.
+
+
+
+
+
+//Topics: [stack]
