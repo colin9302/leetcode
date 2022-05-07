@@ -61,6 +61,18 @@ To be figure out: Mulit_unorderedmap/set
 
 [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/)
 
-[https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)(sliding window)
+[1876. Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)(sliding window)
 
+[2248. Intersection of Multiple Arrays](https://leetcode.com/problems/intersection-of-multiple-arrays/)
 
+[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)
+
+[1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+
+[1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)
+
+[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
+
+[1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
