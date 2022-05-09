@@ -76,3 +76,13 @@ To be figure out: Mulit_unorderedmap/set
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)
 
 [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)
+
+[929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)
+
+[1399. Count Largest Group](https://leetcode.com/problems/count-largest-group)
+
+- [705. Design HashSet](https://leetcode.com/problems/design-hashset/discuss/773006/C%2B%2B-3-Approaches)
+
+[2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/)
+
+-- [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/)(sliding window)
