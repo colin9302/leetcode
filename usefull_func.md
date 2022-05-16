@@ -16,6 +16,11 @@ std::count() returns number of occurrences of an element in a given range.  [O(n
 ## max_element()
  Return the iterator of the max element.
 
+## all_of()
+return all_of(begin(cnt), end(cnt), [&](int c) { return c % words.size() == 0; });
+
+## search()
+
  # Tools
  
  ## auto in for loop
@@ -32,6 +37,10 @@ std::count() returns number of occurrences of an element in a given range.  [O(n
  
  
 a number in char to int:  int('x') - '0'
+
+isalpha()
+tolower()
+
 
 # Bitwise
 
